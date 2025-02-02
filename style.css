@@ -4,5 +4,34 @@
 
 h1 {
     text-align: center;
-    font-size: 200px;
+    font-size: 100px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 35px;
+}
+
+#las {
+    margin-left: 850px;
+    margin-right: 905px;
+    background-color: rgb(231, 211, 24);
+}
+
+#broc {
+    margin-left: 805px;
+    margin-right: 858px;
+    background-color: rgb(44, 209, 2);
+}
+
+#cook {
+    margin-left: 805px;
+    margin-right: 858px;
+    background-color: rgb(165, 65, 39);
 }
