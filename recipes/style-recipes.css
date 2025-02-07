@@ -7,8 +7,25 @@ h1 {
     font-size: 100px;
 }
 
+#las {
+    color:red;
+    background-color:yellow;
+}
+
+#broc {
+    color:darkgreen;
+    background-color: lightgreen;
+}
+
+#cook {
+    color:black;
+    background-color: rgb(165, 65, 39);
+}
+
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
+
