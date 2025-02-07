@@ -29,3 +29,20 @@ img {
     margin-right: auto;
   }
 
+p,
+div {
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+ul,
+ol,
+h3 {
+    padding-left: 300px;
+    font-size: 30px;
+}
+
+div {
+    padding-bottom: 50px;
+}
