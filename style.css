@@ -19,19 +19,32 @@ ul {
 }
 
 #las {
-    margin-left: 850px;
-    margin-right: 905px;
     background-color: rgb(231, 211, 24);
+    box-sizing: border-box;
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    padding-left: 35px;
+    padding-top: 4px;
+    border: 5px solid red;
 }
 
 #broc {
-    margin-left: 805px;
-    margin-right: 858px;
     background-color: rgb(44, 209, 2);
+    box-sizing: border-box;
+    width: 240px;
+    height: 60px;
+    padding-left: 16px;
+    padding-top: 8px;
+    margin: 15px auto;
 }
 
 #cook {
-    margin-left: 805px;
-    margin-right: 858px;
     background-color: rgb(165, 65, 39);
+    box-sizing: border-box;
+    width: 269px;
+    height: 110px;
+    margin: auto;
+    padding-left: 25px;
+    padding-top: 10px;
 }
